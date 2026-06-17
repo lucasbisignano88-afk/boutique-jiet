@@ -256,7 +256,7 @@ main { flex: 1; }
 .sechead__action:hover { color: var(--brand); }
 
 .unigrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
-.unicard { position: relative; overflow: hidden; border-radius: var(--radius); aspect-ratio: 4/5; background: var(--ink); box-shadow: var(--shadow-sm); transition: transform .16s, box-shadow .18s; border: none; padding: 0; margin: 0; width: 100%; display: block; text-align: left; cursor: pointer; -webkit-appearance: none; font: inherit; color: inherit; }
+.unicard { position: relative; overflow: hidden; border-radius: var(--radius); aspect-ratio: 1/1; background: var(--ink); box-shadow: var(--shadow-sm); transition: transform .16s, box-shadow .18s; border: none; padding: 0; margin: 0; width: 100%; display: block; text-align: left; cursor: pointer; -webkit-appearance: none; font: inherit; color: inherit; }
 .unicard:hover { transform: translateY(-4px); box-shadow: var(--shadow-card); }
 .unicard__bg { position: absolute; inset: 0; background-size: cover; background-position: center; background-color: var(--ink); }
 .unicard__scrim { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(to top, rgba(18,11,11,.92) 5%, rgba(18,11,11,.4) 42%, rgba(18,11,11,.05) 70%); z-index: 1; }
@@ -510,6 +510,7 @@ main { flex: 1; }
   .grid--cards { grid-template-columns: repeat(3, 1fr); }
   .reassure { grid-template-columns: repeat(4, 1fr); }
   .unigrid { grid-template-columns: repeat(3, 1fr); }
+  .unicard { aspect-ratio: 4/3; }
   .carou__cell { flex-basis: 42%; }
   .storepage__photos { grid-template-columns: repeat(3, 1fr); }
   .confirm__cta .btn, .ck-actions .btn { flex: none; }
