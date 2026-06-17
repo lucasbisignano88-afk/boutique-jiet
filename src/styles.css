@@ -11,7 +11,7 @@
   --radius: 18px;
   --font-display: 'Fredoka', sans-serif;
   --font-body: 'Mulish', sans-serif;
-  --wrap: 1180px;
+  --wrap: 1480px;
   --brand-dark: color-mix(in oklab, var(--brand), #000 16%);
   --brand-tint: color-mix(in oklab, var(--brand), #fff 90%);
   --shadow-sm: 0 2px 8px rgba(60,30,25,.07);
