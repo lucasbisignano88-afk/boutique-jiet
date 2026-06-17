@@ -67,9 +67,9 @@ function MktRow({ title, kicker, items, ranked, onMore }) {
 }
 
 const BANNERS = [
-  { bg: "assets/uni-pokemon.png?v=2", kicker: "Cartes à collectionner", title: "Cartes Pokémon", sub: "Écarlate & Violet, ETB, boosters, collectors…", cta: "Voir les Pokémon", to: { name: "catalogue", univers: "pokemon" } },
-  { bg: "assets/uni-societe.png?v=3", kicker: "Pour toute la famille", title: "Jeux de société", sub: "Catan, Dixit, 7 Wonders, Skyjo & les classiques.", cta: "Découvrir", to: { name: "catalogue", univers: "societe" } },
-  { bg: "assets/uni-manga.png?v=1", kicker: "Pop culture nippone", title: "Manga & Goodies", sub: "Tomes, haori, figurines POP! à Papeete.", cta: "Explorer le manga", to: { name: "catalogue", univers: "manga" } },
+  { bg: "assets/uni-pokemon.webp?v=2", kicker: "Cartes à collectionner", title: "Cartes Pokémon", sub: "Écarlate & Violet, ETB, boosters, collectors…", cta: "Voir les Pokémon", to: { name: "catalogue", univers: "pokemon" } },
+  { bg: "assets/uni-societe.webp?v=3", kicker: "Pour toute la famille", title: "Jeux de société", sub: "Catan, Dixit, 7 Wonders, Skyjo & les classiques.", cta: "Découvrir", to: { name: "catalogue", univers: "societe" } },
+  { bg: "assets/uni-manga.webp?v=1", kicker: "Pop culture nippone", title: "Manga & Goodies", sub: "Tomes, haori, figurines POP! à Papeete.", cta: "Explorer le manga", to: { name: "catalogue", univers: "manga" } },
 ];
 
 function HeroBanner() {

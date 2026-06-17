@@ -23,11 +23,11 @@ function UspBar() {
 }
 
 const FEATURED_RAW = [
-  { id: "yg-display-age",  bg: "assets/uni-yugioh.png?v=1",  tagline: "À vous de jouer,\nduelliste." },
-  { id: "mg-onepiece",     bg: "assets/uni-manga.png?v=1",   tagline: "Embarquez pour\nla grande aventure." },
-  { id: "pk-tin-mew",      bg: "assets/uni-pokemon.png?v=2", tagline: "Une boîte collector\nà ouvrir d'urgence." },
-  { id: "so-timesup",      bg: "assets/uni-societe.png?v=3", tagline: "L'ambiance,\nà fond les amis." },
-  { id: "jo-peluche",      bg: "assets/uni-jouets.png?v=1",  tagline: "Tout doux,\ntout mignon." },
+  { id: "yg-display-age",  bg: "assets/uni-yugioh.webp?v=1",  tagline: "À vous de jouer,\nduelliste." },
+  { id: "mg-onepiece",     bg: "assets/uni-manga.webp?v=1",   tagline: "Embarquez pour\nla grande aventure." },
+  { id: "pk-tin-mew",      bg: "assets/uni-pokemon.webp?v=2", tagline: "Une boîte collector\nà ouvrir d'urgence." },
+  { id: "so-timesup",      bg: "assets/uni-societe.webp?v=3", tagline: "L'ambiance,\nà fond les amis." },
+  { id: "jo-peluche",      bg: "assets/uni-jouets.webp?v=1",  tagline: "Tout doux,\ntout mignon." },
 ];
 
 const FEATURED = FEATURED_RAW.filter((f) => {
@@ -215,7 +215,7 @@ const ARTICLES = [
 ];
 
 function Journal() {
-  const tints = { societe: "assets/uni-societe.png?v=3", pokemon: "assets/uni-pokemon.png?v=2", cassetete: null };
+  const tints = { societe: "assets/uni-societe.webp?v=3", pokemon: "assets/uni-pokemon.webp?v=2", cassetete: null };
   return (
     <section className="wrap section">
       <SectionHead kicker="Le journal" title="À lire dans la boutique" />

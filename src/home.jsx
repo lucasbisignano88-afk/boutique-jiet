@@ -103,7 +103,7 @@ export function UniverseGrid() {
   const { navigate } = useStore();
   const universes = JIE.universes;
   const count = (id) => JIE.products.filter((p) => p.univers === id).length;
-  const UNI_BG = { pokemon: "assets/uni-pokemon.png?v=2", yugioh: "assets/uni-yugioh.png?v=1", societe: "assets/uni-societe.png?v=3", jouets: "assets/uni-jouets.png?v=1", manga: "assets/uni-manga.png?v=1", logique: "assets/uni-logique.png?v=1", cassetete: "assets/uni-logique.png?v=1" };
+  const UNI_BG = { pokemon: "assets/uni-pokemon.webp?v=2", yugioh: "assets/uni-yugioh.webp?v=1", societe: "assets/uni-societe.webp?v=3", jouets: "assets/uni-jouets.webp?v=1", manga: "assets/uni-manga.webp?v=1", logique: "assets/uni-logique.webp?v=1", cassetete: "assets/uni-logique.webp?v=1" };
   return (
     <div className="unigrid">
       {universes.map((u) => (

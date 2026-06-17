@@ -76,7 +76,7 @@ export const ProductImage = ({ product, className = "", showTag = true }) => {
   if (product.img) {
     return (
       <div className={`pimg pimg--real ${className}`}>
-        <img src={RES(product.img)} alt={product.name} loading="lazy" />
+        <img src={RES(product.img)} alt={product.name} loading="lazy" width="600" height="600" />
       </div>
     );
   }
