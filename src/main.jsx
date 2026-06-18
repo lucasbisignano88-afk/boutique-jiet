@@ -10,7 +10,6 @@ import { CheckoutPage, ConfirmationPage } from './checkout.jsx'
 import { HomePage } from './home.jsx'
 import { HomeMarketplace } from './home-mkt.jsx'
 import { HomeEditorial } from './home-editorial.jsx'
-import { Assistant } from './assistant.jsx'
 import { TweaksPanel, TweakSection, TweakRadio, TweakColor, TweakSelect, TweakSlider, useTweaks } from './tweaks-panel.jsx'
 import './styles.css'
 
@@ -75,7 +74,6 @@ function App() {
         <CartDrawer />
         <TabBar />
         <Toast />
-        <Assistant />
       </div>
 
       <TweaksPanel title="Tweaks">
