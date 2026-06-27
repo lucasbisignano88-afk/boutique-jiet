@@ -1,0 +1,22 @@
+{
+  "order": 12,
+  "id": "yg-playmat",
+  "univers": "yugioh",
+  "name": "Tapis de jeu néoprène",
+  "price": 4500,
+  "img": "assets/prod-yg-playmat.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 8,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 5,
+  "desc": "Surface de duel antidérapante pour jouer dans les meilleures conditions.",
+  "details": [
+    "60 × 35 cm",
+    "Base caoutchouc",
+    "Surface tissée"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "order": 6,
+  "id": "pk-classeur",
+  "univers": "pokemon",
+  "name": "Classeur de rangement 9 cases 360 cartes",
+  "price": 3500,
+  "oldPrice": 3990,
+  "img": "assets/prod-pk-classeur.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 25,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 27,
+  "desc": "Protégez votre collection avec ce classeur grand format à anneaux.",
+  "details": [
+    "20 pages 9 cases",
+    "360 cartes",
+    "Fermeture zip"
+  ]
+}

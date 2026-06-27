@@ -1,0 +1,22 @@
+{
+  "order": 31,
+  "id": "ca-puzzle1000",
+  "univers": "logique",
+  "name": "Puzzle 1000 pièces Lagon de Tahiti",
+  "price": 3500,
+  "img": "assets/prod-lo-puzzle1000.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 12,
+  "best": true,
+  "rating": 4.8,
+  "reviews": 41,
+  "desc": "Un panorama de lagon turquoise à reconstituer. Clin d'œil au fenua.",
+  "details": [
+    "1000 pièces",
+    "70 × 50 cm",
+    "Poster inclus"
+  ]
+}

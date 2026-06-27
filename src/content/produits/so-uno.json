@@ -1,0 +1,20 @@
+{
+  "order": 20,
+  "id": "so-uno",
+  "univers": "societe",
+  "name": "UNO",
+  "price": 1500,
+  "img": "assets/prod-so-uno.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 40,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 54,
+  "desc": "Le grand classique des cartes à abattre. Indémodable.",
+  "details": [
+    "2–10 joueurs",
+    "Dès 7 ans",
+    "20 min"
+  ]
+}

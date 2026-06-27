@@ -1,0 +1,22 @@
+{
+  "order": 28,
+  "id": "mg-haori",
+  "univers": "manga",
+  "name": "Haori Demon Slayer Tanjiro",
+  "price": 5900,
+  "img": "assets/prod-mg-haori.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 9,
+  "best": true,
+  "rating": 4.7,
+  "reviews": 51,
+  "desc": "Veste haori inspirée du héros, coupe unisexe, tissu doux.",
+  "details": [
+    "Tailles S–XL",
+    "100% polyester",
+    "Lavable 30°"
+  ]
+}

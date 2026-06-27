@@ -1,0 +1,22 @@
+{
+  "order": 1,
+  "id": "pk-ev-display",
+  "univers": "pokemon",
+  "name": "Display Écarlate & Violet Évolutions Prismatiques",
+  "price": 32900,
+  "img": "assets/prod-pk-display.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 6,
+  "best": true,
+  "rating": 4.9,
+  "reviews": 48,
+  "desc": "Le display complet de 36 boosters de l'extension la plus chassée du moment. Idéal pour les ouvreurs et les collectionneurs.",
+  "details": [
+    "36 boosters scellés",
+    "Édition française",
+    "Extension EV08"
+  ]
+}

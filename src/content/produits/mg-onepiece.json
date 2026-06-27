@@ -1,0 +1,22 @@
+{
+  "order": 26,
+  "id": "mg-onepiece",
+  "univers": "manga",
+  "name": "One Piece Tome 108",
+  "price": 1500,
+  "img": "assets/prod-mg-onepiece.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 22,
+  "best": true,
+  "rating": 4.9,
+  "reviews": 90,
+  "desc": "Le dernier tome paru de la plus grande aventure de pirates.",
+  "details": [
+    "Édition française",
+    "Glénat",
+    "192 pages"
+  ]
+}

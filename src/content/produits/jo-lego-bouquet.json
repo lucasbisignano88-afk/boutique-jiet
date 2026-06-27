@@ -1,0 +1,21 @@
+{
+  "order": 21,
+  "id": "jo-lego-bouquet",
+  "univers": "jouets",
+  "name": "LEGO Botanical Bouquet de fleurs",
+  "price": 6900,
+  "oldPrice": 7900,
+  "img": "assets/prod-jo-bouquet.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 8,
+  "best": true,
+  "rating": 4.9,
+  "reviews": 46,
+  "desc": "Un bouquet à monter et à exposer, ne fane jamais. Idée cadeau sûre.",
+  "details": [
+    "756 pièces",
+    "Dès 18 ans",
+    "Collection Botanical"
+  ]
+}

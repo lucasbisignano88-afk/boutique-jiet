@@ -1,0 +1,21 @@
+{
+  "order": 35,
+  "id": "lo-rubik",
+  "univers": "logique",
+  "name": "Rubik's Cube 3×3 Speed",
+  "price": 2200,
+  "oldPrice": 2600,
+  "img": "assets/prod-lo-rubik.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 20,
+  "best": true,
+  "rating": 4.8,
+  "reviews": 72,
+  "desc": "Le cube de référence, version rapide pour les speedcubers.",
+  "details": [
+    "3×3",
+    "Mécanisme fluide",
+    "Stickerless"
+  ]
+}

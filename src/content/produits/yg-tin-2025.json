@@ -1,0 +1,22 @@
+{
+  "order": 9,
+  "id": "yg-tin-2025",
+  "univers": "yugioh",
+  "name": "Tin Méga-Pack 2025",
+  "price": 5200,
+  "img": "assets/prod-yg-tin.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 4,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 30,
+  "desc": "La boîte métal de fin d'année avec cartes promo et boosters variés.",
+  "details": [
+    "3 boosters Méga-Pack",
+    "3 cartes promo",
+    "Boîte métal"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "order": 30,
+  "id": "mg-tshirt",
+  "univers": "manga",
+  "name": "T-shirt Attack on Titan",
+  "price": 3500,
+  "oldPrice": 3990,
+  "img": "assets/prod-mg-tshirt.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 14,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 29,
+  "desc": "Coton premium, sérigraphie de qualité, coupe moderne.",
+  "details": [
+    "Tailles S–XXL",
+    "100% coton",
+    "Coupe regular"
+  ]
+}

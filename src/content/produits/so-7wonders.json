@@ -1,0 +1,21 @@
+{
+  "order": 14,
+  "id": "so-7wonders",
+  "univers": "societe",
+  "name": "7 Wonders",
+  "price": 6900,
+  "oldPrice": 7900,
+  "img": "assets/prod-so-7wonders.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 10,
+  "best": true,
+  "rating": 4.9,
+  "reviews": 156,
+  "desc": "Bâtissez une cité antique en draftant des cartes. Fluide jusqu'à 7 joueurs.",
+  "details": [
+    "3–7 joueurs",
+    "Dès 10 ans",
+    "30 min"
+  ]
+}

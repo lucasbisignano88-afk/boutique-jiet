@@ -1,0 +1,22 @@
+{
+  "order": 27,
+  "id": "mg-jjk",
+  "univers": "manga",
+  "name": "Jujutsu Kaisen Coffret tomes 1-5",
+  "price": 7500,
+  "img": "assets/prod-mg-jjk.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 4,
+  "best": false,
+  "rating": 4.8,
+  "reviews": 34,
+  "desc": "Un coffret collector pour débuter la série phénomène.",
+  "details": [
+    "5 tomes",
+    "Coffret illustré",
+    "Édition française"
+  ]
+}

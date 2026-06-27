@@ -1,0 +1,20 @@
+{
+  "order": 33,
+  "id": "ca-exit",
+  "univers": "logique",
+  "name": "EXIT Le manoir sinistre",
+  "price": 3200,
+  "img": "assets/prod-lo-exit.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 0,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 38,
+  "desc": "Une énigme immersive à usage unique, frissons garantis.",
+  "details": [
+    "1–4 joueurs",
+    "Dès 12 ans",
+    "Niveau difficile"
+  ]
+}

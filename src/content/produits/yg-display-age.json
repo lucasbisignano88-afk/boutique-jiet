@@ -1,0 +1,22 @@
+{
+  "order": 7,
+  "id": "yg-display-age",
+  "univers": "yugioh",
+  "name": "Display Yu-Gi-Oh! Age of Overlord",
+  "price": 28900,
+  "img": "assets/prod-yg-display.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 5,
+  "best": true,
+  "rating": 4.8,
+  "reviews": 22,
+  "desc": "Boîte de 24 boosters de l'extension Age of Overlord. 9 cartes par booster, édition française.",
+  "details": [
+    "24 boosters",
+    "Édition française",
+    "9 cartes par booster"
+  ]
+}

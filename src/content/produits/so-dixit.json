@@ -1,0 +1,21 @@
+{
+  "order": 15,
+  "id": "so-dixit",
+  "univers": "societe",
+  "name": "Dixit",
+  "price": 5900,
+  "oldPrice": 6500,
+  "img": "assets/prod-so-dixit.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 12,
+  "best": false,
+  "rating": 4.8,
+  "reviews": 98,
+  "desc": "Un jeu d'images poétiques et d'intuition. Parfait en famille ou entre amis.",
+  "details": [
+    "3–6 joueurs",
+    "Dès 8 ans",
+    "30 min"
+  ]
+}

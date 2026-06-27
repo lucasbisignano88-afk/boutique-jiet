@@ -1,0 +1,22 @@
+{
+  "order": 34,
+  "id": "ca-puzzle3d",
+  "univers": "logique",
+  "name": "Puzzle 3D Tour Eiffel lumineuse",
+  "price": 5500,
+  "img": "assets/prod-lo-puzzle3d.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 3,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 14,
+  "desc": "Un puzzle 3D à assembler et à illuminer. Effet bluffant.",
+  "details": [
+    "216 pièces",
+    "LED incluses",
+    "Dès 8 ans"
+  ]
+}

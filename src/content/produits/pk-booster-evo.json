@@ -1,0 +1,19 @@
+{
+  "order": 3,
+  "id": "pk-booster-evo",
+  "univers": "pokemon",
+  "name": "Booster Évolutions Prismatiques",
+  "price": 750,
+  "img": "assets/prod-pk-booster.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 60,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 33,
+  "desc": "Le booster à l'unité pour tenter la chance sans casser la tirelire.",
+  "details": [
+    "10 cartes par booster",
+    "Édition française"
+  ]
+}

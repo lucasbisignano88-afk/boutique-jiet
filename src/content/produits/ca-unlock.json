@@ -1,0 +1,21 @@
+{
+  "order": 32,
+  "id": "ca-unlock",
+  "univers": "logique",
+  "name": "Unlock! Escape game en boîte",
+  "price": 4500,
+  "oldPrice": 4990,
+  "img": "assets/prod-lo-unlock.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 8,
+  "best": true,
+  "rating": 4.7,
+  "reviews": 55,
+  "desc": "Vivez un escape game à la maison, en équipe, avec une appli compagnon.",
+  "details": [
+    "1–6 joueurs",
+    "Dès 10 ans",
+    "3 scénarios"
+  ]
+}

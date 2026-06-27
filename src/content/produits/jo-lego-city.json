@@ -1,0 +1,19 @@
+{
+  "order": 22,
+  "id": "jo-lego-city",
+  "univers": "jouets",
+  "name": "LEGO City Caserne de pompiers",
+  "price": 8900,
+  "img": "assets/prod-jo-city.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 0,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 33,
+  "desc": "Caserne complète avec véhicules et figurines pour des heures de jeu.",
+  "details": [
+    "540 pièces",
+    "Dès 6 ans"
+  ]
+}

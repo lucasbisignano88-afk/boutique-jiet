@@ -1,0 +1,22 @@
+{
+  "order": 24,
+  "id": "jo-peluche",
+  "univers": "jouets",
+  "name": "Peluche Pikachu 30 cm",
+  "price": 3900,
+  "img": "assets/prod-jo-peluche.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 15,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 28,
+  "desc": "Toute douce et officielle, à câliner ou à exposer.",
+  "details": [
+    "30 cm",
+    "Licence officielle",
+    "Lavable surface"
+  ]
+}

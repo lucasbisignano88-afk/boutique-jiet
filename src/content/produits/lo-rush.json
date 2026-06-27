@@ -1,0 +1,20 @@
+{
+  "order": 37,
+  "id": "lo-rush",
+  "univers": "logique",
+  "name": "Rush Hour Embouteillage",
+  "price": 3500,
+  "img": "assets/prod-lo-rush.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 7,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 40,
+  "desc": "Dégagez la voiture rouge en déplaçant les véhicules. 40 défis.",
+  "details": [
+    "1 joueur",
+    "Dès 8 ans",
+    "40 défis"
+  ]
+}

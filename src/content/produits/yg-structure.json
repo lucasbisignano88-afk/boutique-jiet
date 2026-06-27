@@ -1,0 +1,21 @@
+{
+  "order": 8,
+  "id": "yg-structure",
+  "univers": "yugioh",
+  "name": "Deck de Structure Saga du Dragon Bleu",
+  "price": 2900,
+  "oldPrice": 3400,
+  "img": "assets/prod-yg-structure.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 20,
+  "best": true,
+  "rating": 4.7,
+  "reviews": 41,
+  "desc": "Un deck prêt à jouer, parfait pour débuter ou renforcer un thème iconique.",
+  "details": [
+    "46 cartes",
+    "Guide de stratégie",
+    "Prêt à jouer"
+  ]
+}

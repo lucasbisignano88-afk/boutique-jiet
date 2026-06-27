@@ -1,0 +1,22 @@
+{
+  "order": 18,
+  "id": "so-timesup",
+  "univers": "societe",
+  "name": "Time's Up! Party",
+  "price": 3900,
+  "img": "assets/prod-so-timesup.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 9,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 62,
+  "desc": "Le jeu d'ambiance par excellence : faites deviner un max de célébrités.",
+  "details": [
+    "4–12 joueurs",
+    "Dès 12 ans",
+    "60 min"
+  ]
+}

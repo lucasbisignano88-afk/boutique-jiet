@@ -1,0 +1,22 @@
+{
+  "order": 2,
+  "id": "pk-etb-151",
+  "univers": "pokemon",
+  "name": "Coffret Dresseur d'Élite (ETB) 151",
+  "price": 8900,
+  "img": "assets/prod-pk-etb.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 3,
+  "best": true,
+  "rating": 4.8,
+  "reviews": 120,
+  "desc": "Le retour des 151 premiers Pokémon dans un ETB premium : boosters, sleeves, dés et rangement.",
+  "details": [
+    "9 boosters",
+    "65 protège-cartes",
+    "Édition française"
+  ]
+}

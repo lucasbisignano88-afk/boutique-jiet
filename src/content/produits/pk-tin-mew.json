@@ -1,0 +1,23 @@
+{
+  "order": 4,
+  "id": "pk-tin-mew",
+  "univers": "pokemon",
+  "name": "Pokébox Tin Mewtwo ex",
+  "price": 4200,
+  "oldPrice": 4990,
+  "img": "assets/prod-pk-tin.webp?v=1",
+  "badges": [
+    "nouveau"
+  ],
+  "boutique": true,
+  "stock": 9,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 18,
+  "desc": "Une boîte métal collector avec carte promo brillante et boosters.",
+  "details": [
+    "1 carte promo",
+    "4 boosters",
+    "Boîte métal"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "order": 11,
+  "id": "yg-sleeves",
+  "univers": "yugioh",
+  "name": "Protège-cartes Dragon Shield",
+  "price": 1200,
+  "img": "assets/prod-yg-sleeves.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 30,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 9,
+  "desc": "Sleeves taille japonaise pour cartes Yu-Gi-Oh!",
+  "details": [
+    "60 sleeves",
+    "Format japonais",
+    "Finition matte"
+  ]
+}

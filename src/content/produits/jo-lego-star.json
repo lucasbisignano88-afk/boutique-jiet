@@ -1,0 +1,21 @@
+{
+  "order": 23,
+  "id": "jo-lego-star",
+  "univers": "jouets",
+  "name": "LEGO Star Wars Chasseur",
+  "price": 12900,
+  "img": "assets/prod-jo-star.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 3,
+  "best": true,
+  "rating": 4.8,
+  "reviews": 71,
+  "desc": "Un vaisseau iconique détaillé avec minifigurines à collectionner.",
+  "details": [
+    "475 pièces",
+    "Dès 9 ans"
+  ]
+}

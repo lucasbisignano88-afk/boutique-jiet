@@ -1,0 +1,19 @@
+{
+  "order": 25,
+  "id": "jo-playmobil",
+  "univers": "jouets",
+  "name": "Playmobil Bateau pirate",
+  "price": 9900,
+  "img": "assets/prod-jo-playmobil.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 7,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 19,
+  "desc": "Un grand bateau pirate avec accessoires et personnages.",
+  "details": [
+    "Dès 5 ans",
+    "Flotte sur l'eau"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "order": 19,
+  "id": "so-carcassonne",
+  "univers": "societe",
+  "name": "Carcassonne",
+  "price": 5500,
+  "oldPrice": 6200,
+  "img": "assets/prod-so-carcassonne.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 11,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 88,
+  "desc": "Posez des tuiles et placez vos partisans pour marquer routes, villes et abbayes.",
+  "details": [
+    "2–5 joueurs",
+    "Dès 7 ans",
+    "40 min"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "order": 5,
+  "id": "pk-coffret-premium",
+  "univers": "pokemon",
+  "name": "Coffret Collection Premium Dracaufeu ex",
+  "price": 12500,
+  "img": "assets/prod-pk-premium.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 2,
+  "best": true,
+  "rating": 4.9,
+  "reviews": 64,
+  "desc": "Figurine, carte ultra-premium et boosters dans un écrin collector.",
+  "details": [
+    "1 figurine",
+    "1 carte jumbo",
+    "6 boosters"
+  ]
+}

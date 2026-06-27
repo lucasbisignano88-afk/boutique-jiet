@@ -1,0 +1,22 @@
+{
+  "order": 16,
+  "id": "so-skyjo",
+  "univers": "societe",
+  "name": "Skyjo",
+  "price": 2900,
+  "img": "assets/prod-so-skyjo.webp?v=1",
+  "badges": [
+    "limite"
+  ],
+  "boutique": true,
+  "stock": 4,
+  "best": true,
+  "rating": 4.7,
+  "reviews": 140,
+  "desc": "Le petit jeu de cartes addictif où il faut le moins de points possible.",
+  "details": [
+    "2–8 joueurs",
+    "Dès 8 ans",
+    "30 min"
+  ]
+}

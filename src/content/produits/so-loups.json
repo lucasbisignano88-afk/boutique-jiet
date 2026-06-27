@@ -1,0 +1,20 @@
+{
+  "order": 17,
+  "id": "so-loups",
+  "univers": "societe",
+  "name": "Les Loups-Garous de Thiercelieux",
+  "price": 2200,
+  "img": "assets/prod-so-loups.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 18,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 75,
+  "desc": "Bluff et débats nocturnes dans un village hanté par les loups-garous.",
+  "details": [
+    "8–18 joueurs",
+    "Dès 10 ans",
+    "30 min"
+  ]
+}

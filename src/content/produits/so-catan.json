@@ -1,0 +1,21 @@
+{
+  "order": 13,
+  "id": "so-catan",
+  "univers": "societe",
+  "name": "Catan Le jeu de base",
+  "price": 7900,
+  "oldPrice": 8900,
+  "img": "assets/prod-so-catan.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 14,
+  "best": true,
+  "rating": 4.8,
+  "reviews": 210,
+  "desc": "Le classique de la négociation et de la conquête d'île. 3 à 4 joueurs.",
+  "details": [
+    "3–4 joueurs",
+    "Dès 10 ans",
+    "75 min"
+  ]
+}

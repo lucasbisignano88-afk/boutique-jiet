@@ -1,0 +1,21 @@
+{
+  "order": 29,
+  "id": "mg-tasse",
+  "univers": "manga",
+  "name": "Mug thermoréactif Akatsuki",
+  "price": 2200,
+  "oldPrice": 2600,
+  "img": "assets/prod-mg-mug.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 18,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 23,
+  "desc": "Le motif apparaît au contact d'une boisson chaude. Effet garanti.",
+  "details": [
+    "350 ml",
+    "Thermoréactif",
+    "Boîte cadeau"
+  ]
+}

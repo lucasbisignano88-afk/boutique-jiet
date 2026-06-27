@@ -1,0 +1,21 @@
+{
+  "order": 36,
+  "id": "lo-katamino",
+  "univers": "logique",
+  "name": "Katamino",
+  "price": 3900,
+  "oldPrice": 4500,
+  "img": "assets/prod-lo-katamino.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 9,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 35,
+  "desc": "Un casse-tête évolutif en bois, solo ou en duel. 500 combinaisons.",
+  "details": [
+    "1–2 joueurs",
+    "Dès 3 ans",
+    "Bois"
+  ]
+}

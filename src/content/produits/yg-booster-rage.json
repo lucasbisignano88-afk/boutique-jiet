@@ -1,0 +1,19 @@
+{
+  "order": 10,
+  "id": "yg-booster-rage",
+  "univers": "yugioh",
+  "name": "Booster Rage des Abysses",
+  "price": 690,
+  "img": "assets/prod-yg-booster.webp?v=1",
+  "badges": [],
+  "boutique": true,
+  "stock": 0,
+  "best": false,
+  "rating": 4.7,
+  "reviews": 12,
+  "desc": "Un booster à l'unité pour compléter votre collection.",
+  "details": [
+    "9 cartes",
+    "Édition française"
+  ]
+}
