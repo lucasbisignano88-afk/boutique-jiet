@@ -1,0 +1,47 @@
+backend:
+  name: github
+  repo: lucasbisignano88-afk/boutique-jiet
+  branch: main
+
+# Permet de tester le CMS en local (npx @sveltia/cms-proxy-server)
+local_backend: true
+
+# Les images existantes sont dans public/assets et référencées en "assets/..."
+media_folder: public/assets
+public_folder: assets
+
+collections:
+  - name: produits
+    label: Produits
+    label_singular: Produit
+    folder: src/content/produits
+    format: json
+    extension: json
+    identifier_field: id
+    create: true
+    slug: "{{id}}"
+    fields:
+      - { name: order, label: Ordre, widget: number, value_type: int, step: 1 }
+      - { name: id, label: Identifiant (slug), widget: string }
+      - name: univers
+        label: Univers
+        widget: select
+        options:
+          - { label: "Cartes Pokémon", value: pokemon }
+          - { label: "Cartes Yu-Gi-Oh!", value: yugioh }
+          - { label: "Jeux de société", value: societe }
+          - { label: "Jouets & Lego", value: jouets }
+          - { label: "Manga & Goodies", value: manga }
+          - { label: "Jeux de logique", value: logique }
+      - { name: name, label: Nom, widget: string }
+      - { name: price, label: Prix (F CFP), widget: number, value_type: int, step: 1 }
+      - { name: oldPrice, label: Prix barré (F CFP), widget: number, value_type: int, step: 1, required: false }
+      - { name: img, label: Image, widget: image }
+      - { name: badges, label: Badges, widget: list, required: false }
+      - { name: boutique, label: En boutique, widget: boolean, default: true }
+      - { name: stock, label: Stock, widget: number, value_type: int, step: 1, default: 0 }
+      - { name: best, label: Mis en avant, widget: boolean, default: false }
+      - { name: rating, label: Note, widget: number, value_type: float, required: false }
+      - { name: reviews, label: Nombre d'avis, widget: number, value_type: int, step: 1, required: false }
+      - { name: desc, label: Description, widget: text }
+      - { name: details, label: Détails, widget: list, required: false }
